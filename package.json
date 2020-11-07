@@ -1,0 +1,22 @@
+{
+  "name": "gulp-webp-html-fixed",
+  "version": "1.0.0",
+  "description": "Vinyl version",
+  "scripts": {
+    "test": "command for testing package"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Adingame/gulp-webp-html-fixed"
+  },
+  "author": "TikTaqTo",
+  "license": "MIT",
+  "devDependencies": {
+    "vinyl": "^2.1.1",
+    "through2": "^4.0.2"
+  },
+  "bugs": {
+    "url": "https://github.com/Adingame/gulp-webp-html-fixed/issues"
+  },
+  "homepage": "https://github.com/Adingame/gulp-webp-html-fixed#readme"
+}
